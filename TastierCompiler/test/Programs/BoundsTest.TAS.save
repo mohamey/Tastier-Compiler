@@ -1,0 +1,7 @@
+program BoundsTest{
+	void Main(){
+		int oneD[10];
+		int twoD[21,14];
+		
+	}
+}

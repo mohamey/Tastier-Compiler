@@ -1,0 +1,12 @@
+program Tester{
+	int i;
+	int x;
+
+	void Main(){
+		for(i:=0;i:=i+1;i<=10)
+		do{
+			x:= i<=5?i:i-5
+			write x;	
+		}		
+	}
+}		

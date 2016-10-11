@@ -1,0 +1,15 @@
+names 3
+.proc Main
+.proc SumUp
+.var 1 i
+SumUp: Enter 0
+Const 10
+StoG 3
+LoadG 3
+Write
+Leave
+Ret
+Main: Enter 0
+Call 1 SumUp
+Leave
+Ret

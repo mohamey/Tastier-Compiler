@@ -1,0 +1,7 @@
+program SwitchTest{
+	void main(){
+		int test[10];
+		test[3]:= 14;
+		switch(test[3]):{
+	}
+}

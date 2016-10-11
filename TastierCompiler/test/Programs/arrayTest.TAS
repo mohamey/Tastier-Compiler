@@ -1,0 +1,12 @@
+program arrayTest{
+	void Main(){
+		int oneD[10];
+		int twoD[10,4];
+		int i;
+		oneD[1] := 100;
+		oneD[7] := 200;
+		twoD[4,3] := 300;
+		
+		write oneD[1], oneD[7], twoD[4,3];
+	}
+}

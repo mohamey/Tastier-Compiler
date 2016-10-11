@@ -1,0 +1,64 @@
+.names 24
+.proc Main
+.var 1 i43
+.var 1 i33
+.var 1 i23
+.var 1 i13
+.var 1 i03
+.var 1 i42
+.var 1 i32
+.var 1 i22
+.var 1 i12
+.var 1 i02
+.var 1 i41
+.var 1 i31
+.var 1 i21
+.var 1 i11
+.var 1 i01
+.var 1 i40
+.var 1 i30
+.var 1 i20
+.var 1 i10
+.var 1 i00
+.var 1 i
+.const 1 limiter
+.const 1 limit
+Const 512
+StoG 100
+Const 624
+StoG 101
+Const 5
+Const 4
+Main: Enter 12
+Const 10
+Const 15
+Sto 0 11
+Const 1
+Const 12
+Sto 0 2
+Const 1
+Const 1
+Const 69
+StoG 10
+Const 91
+Const 91
+Const 1
+Const 96
+Sto 0 2
+Load 0 11
+Write
+Const 1
+Load 0 2
+Write
+Const 1
+Const 1
+LoadG 10
+Write
+LoadG 100
+Write
+LoadG 101
+Write
+LoadG 100
+Write
+Leave
+Ret

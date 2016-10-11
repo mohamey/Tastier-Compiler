@@ -1,0 +1,55 @@
+// This is a test program which can be compiled by the TastierCompiler.
+// It reads a sequence of numbers from the input file and computes, for each
+// number, the sum of all integers up to that number
+
+program Test {
+	//const limit := 512;
+//	const limiter := 624;
+//	int j [10];
+//	int i [5,4];
+//	int h;
+//	int x;
+//	int l;
+//	point test;
+
+  void Main() {
+//	int j[10];
+//	int k;
+//	point test;
+//	test.x := 1;
+//	test.y := 2;
+//	int y;
+	bool temp;
+	temp := false;
+	bool booleans[10];
+	booleans[2] := true;
+//	y := 10;
+//	l := 91;
+//	x := 1;
+//	h := 999;
+//	k := 15;
+//	j[1] := 12;
+//	j[2] := 90;
+//	l := 91;
+	//i[x] := 69;
+//	if (l < 100)
+//		j[1] := 96;
+//	switch(j[2]):
+//		case 90:
+//			y := 97;
+//		case 91:
+//			y := 191;
+//		default:
+//			y := 666;
+// 	write h, k, j[1], i[x,1], limit, limiter, limit;
+//	write j[2], y, i[1,1], booleans[2];
+//	write test.x;
+	write booleans[2];
+//	int kmla;
+//	kmla := 7;
+//	int yasir[10];
+//	yasir[kmla] := 6;
+//	write yasir[kmla];
+  }
+}
+
